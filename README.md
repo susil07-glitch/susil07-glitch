@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sushil Sharma
+# 👋 Hi, I'm Sushil Sharma 
 
 Welcome to my GitHub profile! I'm a tech enthusiast, self-driven learner, and builder who loves working on creative and meaningful projects.
 
@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast, self-driven learner, and bu
 
 ## 🚀 About Me
 
-- 🎓 Currently learning **React**, **Arduino**, and **IoT-based Robotics**
-- 🤖 Passionate about **Robotics**, **Embedded Systems**, and **Smart Automation**
+- 💻 MERN developer .....
+- 🎓 Currently Expoling **Backend** with node.Js and TypeScript 
 - 🛠️ I like building projects that solve real-world problems
 - 🌱 Always learning — one project at a time
 - 📍 Based in Nepal 🇳🇵
@@ -30,15 +30,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast, self-driven learner, and bu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-ff6f00?style=for-the-badge&logo=autodesk&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- 🔄 React.js (Hooks, Routing, Components)
-- 🔌 Firebase & MongoDB (for full-stack development)
-- 📐 Custom PCBs using EasyEDA
-- 🌐 Building IoT systems with cloud integration
 
 ---
 
