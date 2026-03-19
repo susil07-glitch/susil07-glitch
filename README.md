@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast, self-driven learner, and bu
 
 ## 🚀 About Me
 
-- 💻 MERN developer .....
+- 💻 exploring MERN Development ....
 - 🎓 Currently Expoling **Backend** with node.Js and TypeScript 
 - 🛠️ I like building projects that solve real-world problems
 - 🌱 Always learning — one project at a time
